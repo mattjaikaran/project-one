@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+  max-width: 1000px;
+  max-height: 1000px;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+body {
+  border: 2px solid black;
+  text-align: center;
+  height: 900px;
+  width: 900px;
+}
+
+.square:hover{
+  cursor: pointer;
+}
+
+.container {
+  height: 1000px;
+  width: 750px;
+  display: flex;
+  position: inherit;
+  justify-content: center;
+  padding-top: 1%;
+}
+
+button {
+  height: 200px;
+  width: 200px;
+}
+
+/*.startButton {
+  position: relative;
+  height: 33.3%;
+  width: 33.3%;
+  top: 75%;
+  left: -70%;
+}*/
+
+
+/*square {
+  width: 300px;
+  height: 300px;
+  border: 1px solid red;
+  margin: 50%;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*fin */
